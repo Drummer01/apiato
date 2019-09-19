@@ -3,7 +3,7 @@
     "apiato/core": "dev-master"
   },
   "require-dev": {
-    "barryvdh/laravel-ide-helper": "2.4.*"
+    "barryvdh/laravel-ide-helper": "2.6.*"
   },
   "autoload": {
     "files": [
